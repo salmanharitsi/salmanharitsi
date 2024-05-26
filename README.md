@@ -1,58 +1,52 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Salman Haritsi</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salman+Haritsi!;" />
+</h1>
+
 <h3 align="center">Someone who is passionate about web programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanharitsi&label=Profile%20views&color=0e75b6&style=flat" alt="salmanharitsi" /> </p>
-<img align="right" width="400" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
+<br/>
 
-- :fallen_leaf: I am an Informatic Engineering student at Riau University
-- :leaves: Now I'm Enjoying Learning **Web Programming**
+<div align="center">
+ 
+ 🔭 I am an Informatic Engineering student at Riau University
+ 
+ 🌱 Now I'm Enjoying Learning **Web Programming**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:salmanalharitsi14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/salmanharitsi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salmanharitsi.me/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salman al haritsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman al haritsi" height="30" width="40" /></a>
-<a href="https://instagram.com/salmanharitsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salmanharitsi" height="30" width="40" /></a>
-</p>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <br>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-</p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=salmanharitsi&hide=jupyter%20notebook,java&show_icons=true&langs_count=4&locale=en&layout=compact" alt="salmanharitsi" width="350px" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanharitsi&" alt="salmanharitsi" width="413px" /></p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,vite,react,bootstrap,mui,tailwind,figma" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nextjs,mongo,mysql,git" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salmanharitsi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salmanharitsi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salmanharitsi&hide=jupyter%20notebook,java,HTML,CSS&show_icons=true&langs_count=4&locale=en&layout=compact&theme=react" alt="salmanharitsi" width="350px" />
+  <br/>
+</div>
 
 
 
