@@ -8,12 +8,12 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
  
  🔭 I am an Informatic Engineering student at Riau University
  
  🌱 Now I'm Enjoying Learning **Web Programming**
- </div>
+ </div> -->
  
 <div align="center"> 
   <a href="mailto:salmanalharitsi14@gmail.com">
